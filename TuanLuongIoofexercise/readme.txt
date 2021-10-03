@@ -15,4 +15,4 @@ in eclipse. Otherwise if opening using javac compiler the path should just be
 "sampleinput.txt" and then it can be compiled.
 
 This project will be on github as well as being sent via email
-as a eclipse zip file. 
+as a eclipse zip file.  The IoofExercise when downloaded from github or cloned, can be imported into eclipse as a file system.
