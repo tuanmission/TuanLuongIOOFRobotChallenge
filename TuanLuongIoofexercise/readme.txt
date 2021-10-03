@@ -16,3 +16,5 @@ in eclipse. Otherwise if opening using javac compiler the path should just be
 
 This project will be on github as well as being sent via email
 as a eclipse zip file.  The IoofExercise when downloaded from github or cloned, can be imported into eclipse as a file system.
+This can be done by in Eclipse by File-> Import-> General-> Projects from folder or archive-> directory 
+Then select the folder and import the project. 
